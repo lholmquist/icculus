@@ -1,0 +1,19 @@
+{
+  "name": "icculus",
+  "version": "1.0.0",
+  "description": "Phish.net node client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Holmquist",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
